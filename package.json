@@ -1,0 +1,20 @@
+{
+  "name": "create-react-hooks",
+  "version": "1.0.0",
+  "description": "Create Scaffold for React Hooks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/use-hooks/create-react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks"
+  ],
+  "author": "Cody Chan <int64ago@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/use-hooks/create-react-hooks/issues"
+  },
+  "homepage": "https://github.com/use-hooks/create-react-hooks#readme"
+}
