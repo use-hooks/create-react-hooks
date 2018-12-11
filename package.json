@@ -1,6 +1,6 @@
 {
   "name": "create-react-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create Scaffold for React Hooks",
   "bin": "./bin/init.js",
   "repository": {
