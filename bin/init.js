@@ -32,7 +32,8 @@ function init() {
     .pipe(template(dest, cwd))
     .pipe(vfs.dest(dest))
     .on('end', function () {
-      fs.renameSync(path.join(dest, 'gitignore'), path.join(dest, '.gitignore'));
+      fs.renameSync(path.join(dest, '_gitignore'), path.join(dest, '.gitignore'));
+      fs.renameSync(path.join(dest, '_package.json'), path.join(dest, 'package.json'));
       require('../lib/install');
     })
     .resume();
