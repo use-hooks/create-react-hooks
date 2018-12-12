@@ -44,7 +44,7 @@ yarn add @use-hooks/<%= name %>
 
 ## Usage
 
-```js
+```jsx
 //
 ```
 

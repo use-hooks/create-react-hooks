@@ -1,6 +1,6 @@
 {
   "name": "@use-hooks/<%= name %>",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Custom React Hooks",
   "main": "dist/index.js",
   "files": [

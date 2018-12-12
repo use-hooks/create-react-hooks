@@ -14,5 +14,10 @@
   ],
   "rules": {
     "react-hooks/rules-of-hooks": "error"
+  },
+  "settings": {
+    "react": {
+      "version": "16.7.0-alpha"
+    }
   }
 }
