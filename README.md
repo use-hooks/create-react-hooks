@@ -9,7 +9,7 @@ Create Scaffold for React Hooks (actually for [use-hooks](https://github.com/use
 
 ```bash
 mkdir react-hooks-<name-of-hooks> && cd react-hooks-<name-of-hooks>
-npx create-react-hooks <name-of-hooks>
+npx create-react-hooks
 ```
 
 ## License
