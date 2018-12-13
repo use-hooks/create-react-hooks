@@ -19,6 +19,7 @@
   "homepage": "https://github.com/use-hooks/create-react-hooks#readme",
   "dependencies": {
     "ejs": "^2.6.1",
+    "inquirer": "^6.2.1",
     "through2": "^3.0.0",
     "vinyl-fs": "^3.0.3",
     "which": "^1.3.1"
