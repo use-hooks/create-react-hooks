@@ -4,9 +4,16 @@
     "node": true,
     "jest": true
   },
-  "extends": "airbnb",
+  "extends": ["airbnb", "prettier"],
+  "plugins": [
+    "prettier",
+    "react",
+    "react-hooks"
+  ],
   "rules": {
+    "react-hooks/rules-of-hooks": "error",
+    "prettier/prettier": "error",
     "consistent-return": 0,
-    "react/jsx-one-expression-per-line": 0
+    "react/jsx-filename-extension": 0
   }
 }
